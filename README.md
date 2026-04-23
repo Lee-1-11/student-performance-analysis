@@ -39,7 +39,7 @@ This project analyzes academic performance data for 6,607 students to identify k
 
 📸 Dashboard Preview
 
-![Student Performance Dashboard](dashboard_screenshot.png)
+![Student Performance Dashboard](student_performance_analyst_screenshot.png)
 
 ---
 
